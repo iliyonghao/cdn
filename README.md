@@ -1,12 +1,11 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/iliyonghao/cdn@3.0/fontawesome-free-5.15.4-web/css/all.min.css">
-# <div style="text-align: center;font-size: 50px">CDN</div>
-##  <a href="https://cdn.jsdelivr.net/gh/iliyonghao/cdn@3.0/" >CDN-Version-3.0</a>
+# CDN
+##   <a href="https://cdn.jsdelivr.net/gh/iliyonghao/cdn@3.0/" >CDN-Version-3.0</a>
 
 ```java
 https://cdn.jsdelivr.net/gh/iliyonghao/cdn@3.0/
 ```
 
-## <a href="https://cdn.jsdelivr.net/gh/iliyonghao/cdn@3.0/layui-2.6.8" ><i class="fas fa-cat"></i> Layui</a>
+##  <a href="https://cdn.jsdelivr.net/gh/iliyonghao/cdn@3.0/layui-2.6.8" >Layui</a>
 
 - css
 
